@@ -26,7 +26,7 @@ Hi, I'm <strong>frontend developer</strong>.
 </p>
 
 <h4>💪Skills </h4>
-<h5>Languges & library</h5>
+<h5>Language & library</h5>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
