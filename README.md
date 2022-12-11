@@ -41,3 +41,5 @@ Hi, I'm <strong>frontend developer</strong>.
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
