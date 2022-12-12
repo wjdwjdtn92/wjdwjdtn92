@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <p>
 Hi, I'm <strong>frontend developer</strong>.
+But I enjoy developing the backend, mobile, etc.
 </p>
 
 <h4>💪Skills </h4>
@@ -43,3 +44,5 @@ Hi, I'm <strong>frontend developer</strong>.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Project
