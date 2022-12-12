@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-Hi, I'm <strong>frontend developer</strong>.
+Hi, I'm <strong>frontend developer</strong><br>
 But I enjoy developing the backend, mobile, etc.
 </p>
 
