@@ -44,5 +44,6 @@ But I enjoy developing the backend, mobile, etc.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjdtn92)](https://solved.ac/wjdwjdtn92/)
 
 Project
