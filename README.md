@@ -43,7 +43,7 @@ But I enjoy developing the backend, mobile, etc.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/wjdwjdtn92/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdwjdtn92)](https://solved.ac/wjdwjdtn92/)
 
 Project
