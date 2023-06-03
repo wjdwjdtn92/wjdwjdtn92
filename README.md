@@ -23,24 +23,22 @@ Here are some ideas to get you started:
 
 <p>
 Hi, I'm <strong>frontend developer</strong><br>
-But I enjoy developing the backend, mobile, etc.
+But, I enjoy developing the backend, mobile, etc.
 </p>
 
 <h4>💪Skills </h4>
 <h5>Language & library</h5>
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>&nbsp
-  
-  <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp  
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp  
 </p>
 <h5>Framework & Tools</h5>
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwjdtn92&layout=compact)](https://github.com/wjdwjdtn92/github-readme-stats)
