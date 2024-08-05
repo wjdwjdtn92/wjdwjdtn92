@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <br>
 <p>
 Hi, I'm <strong>frontend developer</strong><br>
-But, I enjoy developing the backend, mobile, etc.
 </p>
 
 <br>
@@ -47,8 +46,9 @@ But, I enjoy developing the backend, mobile, etc.
 <br>
 
 ### **📚 Education**
-- 2023.04 ~ 2023.05 - 원티드 프리온보딩 프론트엔드 인턴십(기업과제 교육)
-- 2022.10 ~ 2023.04 - 코드스테이츠 프론트엔드 부트캠프
+- 2023.04 ~ 2023.05  - 원티드 프리온보딩 프론트엔드 인턴십(기업과제 교육)
+- 2022.10 ~ 2023.04  - 코드스테이츠 프론트엔드 부트캠프
+- 2017.03 ~ 2017.09  - 멋쟁이사자처럼 5기
 
 <br>
 
@@ -57,6 +57,5 @@ But, I enjoy developing the backend, mobile, etc.
   <a href="https://velog.io/@jungsu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jungsu"/></a>&nbsp
   <a href="mailto:wjdwjdtn92@gmail.com"><img src="https://img.shields.io/badge/wjdwjdtn92@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdwjdtn92@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/jungsu-jung/"><img src="https://img.shields.io/badge/JungsuJung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jungsu-jung/"/></a>
-  <a href="https://www.instagram.com/wjdwjdtn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wjdwjdtn/"/></a>&nbsp
 </p>
 
