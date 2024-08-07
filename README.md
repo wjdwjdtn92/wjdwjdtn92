@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </p>
 
 
-### **💪 Skills**
-#### **Tech Keyword**
+###  **💻 Tech Keyword**
+####
 <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
